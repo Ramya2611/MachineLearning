@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "553568150957",
+    "firebase_url": "https://machine-learning-e6ac4.firebaseio.com",
+    "project_id": "machine-learning-e6ac4",
+    "storage_bucket": "machine-learning-e6ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553568150957:android:4df0101106a215e4",
+        "android_client_info": {
+          "package_name": "com.example.ramya.machinelearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553568150957-4d4k4mpd75mh9crha0u7ri521s4lia66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UOTP4QaHYh0nSDj72PKgjQ1Dv26sMYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
